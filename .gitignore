@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+diagnostics/
+decoded_results.txt
+adc_*.txt
+fsk_*_adc_*.txt
+offline_corr_coeffs.txt
+*.rar
